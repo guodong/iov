@@ -12,7 +12,7 @@ class Generator {
     let grow = 1;
     if (type === 0) {
       priority = 100;
-      grow = 2;
+      grow = 4;
     }
     if (type === 0) {
 
